@@ -1,0 +1,12 @@
+LSTM Model Evaluation Metrics --
+MAE: 391.52978515625
+MSE: 291463.4375
+RMSE: 539.87353515625
+MAPE: 0.31860893964767456
+R2: -7.237854321607109
+Accuracy: <function accuracy at 0x300078e00>
+Explained Variance: -7.216808319091797
+Max Error: 2680.2998046875
+Mean Poisson Deviance: 218.6420135498047
+Mean Gamma Deviance: 0.21460837125778198
+Mean Tweedie Deviance: 291463.4375
